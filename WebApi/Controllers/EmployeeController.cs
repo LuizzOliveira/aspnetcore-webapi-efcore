@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebApi.Infrastructure;
 using WebApi.Model;
 using WebApi.ViewModel;
 
